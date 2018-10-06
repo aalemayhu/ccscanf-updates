@@ -2,7 +2,8 @@
 
 <Summarize the week>
 
-This is issue X of the `ccscanf updates`. 
+This is issue 0 of the `ccscanf updates`. A weekly newsletter collecting all
+of the project related links shared in the chat on https://www.twitch.tv/ccscanf
 
 ---
 

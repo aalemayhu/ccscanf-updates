@@ -4,9 +4,9 @@ A weekly newsletter compiled by and for the community on https://www.twitch.tv/c
 
 ## Want to share a link? 
 
-Feel free to open up a [new issue][0] or [pull request][1] with the link. While
-not required, please consider summarizing your link to ease review / adding it
-to the next issue.
+Feel free to open up a [new issue][0] or [pull request][1]. While not required,
+please consider summarizing your link to ease review / adding it to the next
+issue.
 
 ## Organization
 

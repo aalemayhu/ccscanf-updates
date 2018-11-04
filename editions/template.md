@@ -9,7 +9,3 @@
 #### [Project Y](https://github.com/y/y)
 
 >summary of project y
-
-# Random cool note
-
-> [quote](link)
